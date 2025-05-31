@@ -1,0 +1,16 @@
+{
+  "name": "uniform-3d-configurator",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/frontend",
+    "apps/admin",
+    "packages/common"
+  ],
+  "devDependencies": {
+    "pnpm": "<10.11.0",
+    "eslint": "^8.0.0",
+    "prettier": "^2.0.0"
+  }
+}
+
