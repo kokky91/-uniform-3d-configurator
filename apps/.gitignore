@@ -1,0 +1,11 @@
+# Node‐modules en lock‐files
+node_modules/
+package-lock.json
+
+# Optioneel: dist-, build- of andere gegenereerde mappen
+dist/
+build/
+
+# Logs en OS‐specifieke bestanden
+*.log
+.DS_Store
